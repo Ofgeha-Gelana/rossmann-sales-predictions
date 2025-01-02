@@ -22,3 +22,4 @@
 2025-01-02 13:38:14,005 - INFO - Replacing missing values in column 'StoreType' with mode: a
 2025-01-02 13:38:14,007 - INFO - Replacing missing values in column 'Assortment' with mode: a
 2025-01-02 13:38:14,007 - INFO - Replacing missing values in column 'PromoInterval' with mode: Jan,Apr,Jul,Oct
+2025-01-02 13:40:59,070 - INFO - Finding missing values in DataFrame...
