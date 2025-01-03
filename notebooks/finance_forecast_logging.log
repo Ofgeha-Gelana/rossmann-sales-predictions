@@ -215,3 +215,10 @@
 2025-01-03 16:13:21,811 - INFO - Plotting daily sales growth rate.
 2025-01-03 16:14:52,040 - INFO - Analyzing the effect of assortment type on monthly average sales.
 2025-01-03 16:15:21,840 - INFO - Analyzing the effect of competition distance on sales.
+2025-01-03 16:16:38,761 - INFO - Analyzing stores open on all weekdays.
+2025-01-03 16:17:21,429 - INFO - Starting storesOpenWeekdayOpenWeekends function
+2025-01-03 16:17:21,601 - INFO - Filtered open stores: 844392 entries
+2025-01-03 16:17:21,742 - INFO - Number of stores open all weekdays: 1115
+2025-01-03 16:17:21,877 - INFO - Average weekend sales for stores open all weekdays: 2994.451143510152
+2025-01-03 16:17:21,877 - INFO - Average weekend sales for stores NOT open all weekdays: nan
+2025-01-03 16:17:21,977 - INFO - Completed storesOpenWeekdayOpenWeekends function
