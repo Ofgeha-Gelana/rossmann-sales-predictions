@@ -142,3 +142,7 @@
 2025-01-03 14:22:29,286 - INFO - Categorizing each day based on holiday type.
 2025-01-03 14:23:44,601 - INFO - Calculating average sales during different periods.
 2025-01-03 14:24:53,850 - INFO - Plotting the effect of holidays on sales.
+2025-01-03 14:29:48,432 - INFO - Plotting sales over time by different timeframes.
+2025-01-03 14:34:11,037 - INFO - Decomposing sales seasonality.
+2025-01-03 14:35:31,401 - INFO - Calculating average sales by day of the week.
+2025-01-03 15:20:08,801 - INFO - Plotting monthly sales: Open vs Not Open.
