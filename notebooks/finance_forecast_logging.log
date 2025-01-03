@@ -146,3 +146,44 @@
 2025-01-03 14:34:11,037 - INFO - Decomposing sales seasonality.
 2025-01-03 14:35:31,401 - INFO - Calculating average sales by day of the week.
 2025-01-03 15:20:08,801 - INFO - Plotting monthly sales: Open vs Not Open.
+2025-01-03 15:33:36,783 - INFO - Creating date features.
+2025-01-03 15:33:37,425 - INFO - Comparing Promo distribution between train and test datasets.
+2025-01-03 15:33:37,483 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:33:37,488 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:33:37,504 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:33:37,504 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:33:37,624 - INFO - Categorizing each day based on holiday type.
+2025-01-03 15:33:53,346 - INFO - Calculating average sales during different periods.
+2025-01-03 15:33:53,532 - INFO - Plotting the effect of holidays on sales.
+2025-01-03 15:33:53,859 - INFO - Plotting sales over time by different timeframes.
+2025-01-03 15:33:55,074 - INFO - Decomposing sales seasonality.
+2025-01-03 15:33:55,763 - INFO - Calculating average sales by day of the week.
+2025-01-03 15:33:56,137 - INFO - Plotting monthly sales: Open vs Not Open.
+2025-01-03 15:38:04,274 - INFO - Analyzing customer behavior for stores that are open.
+2025-01-03 15:41:39,216 - INFO - Analyzing customer behavior for stores that are not open.
+2025-01-03 15:42:23,051 - INFO - Analyzing customer behavior by season for stores that are open.
+2025-01-03 15:43:21,626 - INFO - Plotting distribution of State Holidays.
+2025-01-03 15:44:41,210 - INFO - Plotting distribution of School Holidays.
+2025-01-03 15:45:11,292 - INFO - Plotting average sales on State Holidays vs Non-Holidays.
+2025-01-03 15:45:43,226 - INFO - Plotting average sales on School Holidays vs Non-Holidays.
+2025-01-03 15:46:37,122 - INFO - Creating date features.
+2025-01-03 15:46:37,848 - INFO - Comparing Promo distribution between train and test datasets.
+2025-01-03 15:46:37,951 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:46:37,964 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:46:37,985 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:46:37,985 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:46:38,139 - INFO - Categorizing each day based on holiday type.
+2025-01-03 15:47:01,167 - INFO - Calculating average sales during different periods.
+2025-01-03 15:47:01,322 - INFO - Plotting the effect of holidays on sales.
+2025-01-03 15:47:01,592 - INFO - Plotting sales over time by different timeframes.
+2025-01-03 15:47:02,855 - INFO - Decomposing sales seasonality.
+2025-01-03 15:47:03,392 - INFO - Calculating average sales by day of the week.
+2025-01-03 15:47:03,699 - INFO - Plotting monthly sales: Open vs Not Open.
+2025-01-03 15:47:03,837 - INFO - Analyzing customer behavior for stores that are open.
+2025-01-03 15:47:04,179 - INFO - Analyzing customer behavior for stores that are not open.
+2025-01-03 15:47:04,519 - INFO - Analyzing customer behavior by season for stores that are open.
+2025-01-03 15:47:04,962 - INFO - Plotting distribution of State Holidays.
+2025-01-03 15:47:05,075 - INFO - Plotting distribution of School Holidays.
+2025-01-03 15:47:05,162 - INFO - Plotting average sales on State Holidays vs Non-Holidays.
+2025-01-03 15:47:05,307 - INFO - Plotting average sales on School Holidays vs Non-Holidays.
+2025-01-03 15:47:46,175 - INFO - Plotting effect of promotions on monthly average sales.
