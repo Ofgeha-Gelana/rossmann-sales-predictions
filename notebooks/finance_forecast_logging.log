@@ -213,3 +213,5 @@
 2025-01-03 16:12:15,305 - INFO - Plotting the relationship between number of customers and sales over time.
 2025-01-03 16:12:41,405 - INFO - Creating a heatmap for average sales by day of the week and month.
 2025-01-03 16:13:21,811 - INFO - Plotting daily sales growth rate.
+2025-01-03 16:14:52,040 - INFO - Analyzing the effect of assortment type on monthly average sales.
+2025-01-03 16:15:21,840 - INFO - Analyzing the effect of competition distance on sales.
