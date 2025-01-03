@@ -129,3 +129,16 @@
 2025-01-03 08:24:01,848 - INFO - Creating box plots for outlier detection...
 2025-01-03 08:25:41,867 - INFO - Creating box plots for outlier detection...
 2025-01-03 14:10:20,361 - INFO - Creating date features.
+2025-01-03 14:12:39,243 - INFO - Comparing Promo distribution between train and test datasets.
+2025-01-03 14:12:39,331 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:12:39,344 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:12:39,415 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:12:39,424 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:20:36,745 - INFO - Comparing Promo distribution between train and test datasets.
+2025-01-03 14:20:36,767 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:20:36,780 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:20:36,802 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:20:36,808 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:22:29,286 - INFO - Categorizing each day based on holiday type.
+2025-01-03 14:23:44,601 - INFO - Calculating average sales during different periods.
+2025-01-03 14:24:53,850 - INFO - Plotting the effect of holidays on sales.
