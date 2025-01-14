@@ -335,3 +335,40 @@
 2025-01-14 08:39:56,984 - INFO - Completed storesOpenWeekdayOpenWeekends function
 2025-01-14 08:41:41,713 - INFO - Creating date features.
 2025-01-14 08:44:00,700 - INFO - Creating date features.
+2025-01-14 09:04:13,553 - INFO - Creating date features.
+2025-01-14 09:04:14,190 - INFO - Comparing Promo distribution between train and test datasets.
+2025-01-14 09:04:14,225 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 09:04:14,225 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 09:04:14,252 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 09:04:14,257 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 09:04:14,340 - INFO - Categorizing each day based on holiday type.
+2025-01-14 09:04:27,189 - INFO - Calculating average sales during different periods.
+2025-01-14 09:04:27,320 - INFO - Plotting the effect of holidays on sales.
+2025-01-14 09:04:27,541 - INFO - Plotting sales over time by different timeframes.
+2025-01-14 09:04:28,471 - INFO - Decomposing sales seasonality.
+2025-01-14 09:04:28,926 - INFO - Calculating average sales by day of the week.
+2025-01-14 09:04:29,211 - INFO - Plotting monthly sales: Open vs Not Open.
+2025-01-14 09:04:29,355 - INFO - Analyzing customer behavior for stores that are open.
+2025-01-14 09:04:29,632 - INFO - Analyzing customer behavior for stores that are not open.
+2025-01-14 09:04:29,810 - INFO - Analyzing customer behavior by season for stores that are open.
+2025-01-14 09:04:30,219 - INFO - Plotting distribution of State Holidays.
+2025-01-14 09:04:30,321 - INFO - Plotting distribution of School Holidays.
+2025-01-14 09:04:30,404 - INFO - Plotting average sales on State Holidays vs Non-Holidays.
+2025-01-14 09:04:30,536 - INFO - Plotting average sales on School Holidays vs Non-Holidays.
+2025-01-14 09:04:30,740 - INFO - Plotting effect of promotions on monthly average sales.
+2025-01-14 09:04:30,888 - INFO - Analyzing store type performance over time.
+2025-01-14 09:04:31,154 - INFO - Plotting performance by store type and promotion over time.
+2025-01-14 09:04:31,371 - INFO - Plotting the relationship between number of customers and sales over time.
+2025-01-14 09:04:45,169 - INFO - Creating a heatmap for average sales by day of the week and month.
+2025-01-14 09:04:45,479 - INFO - Plotting daily sales growth rate.
+2025-01-14 09:04:45,818 - INFO - Analyzing the effect of assortment type on monthly average sales.
+2025-01-14 09:04:45,978 - INFO - Analyzing the effect of competition distance on sales.
+2025-01-14 09:04:46,137 - INFO - Analyzing stores open on all weekdays.
+2025-01-14 09:04:46,593 - INFO - Starting storesOpenWeekdayOpenWeekends function
+2025-01-14 09:04:46,717 - INFO - Filtered open stores: 844392 entries
+2025-01-14 09:04:46,868 - INFO - Number of stores open all weekdays: 1115
+2025-01-14 09:04:46,985 - INFO - Average weekend sales for stores open all weekdays: 2994.451143510152
+2025-01-14 09:04:46,985 - INFO - Average weekend sales for stores NOT open all weekdays: nan
+2025-01-14 09:04:47,079 - INFO - Completed storesOpenWeekdayOpenWeekends function
+2025-01-14 09:04:47,394 - INFO - Creating date features.
+2025-01-14 09:04:47,869 - INFO - Creating date features.
