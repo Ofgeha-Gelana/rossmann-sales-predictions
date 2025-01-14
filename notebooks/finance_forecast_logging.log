@@ -222,3 +222,115 @@
 2025-01-03 16:17:21,877 - INFO - Average weekend sales for stores open all weekdays: 2994.451143510152
 2025-01-03 16:17:21,877 - INFO - Average weekend sales for stores NOT open all weekdays: nan
 2025-01-03 16:17:21,977 - INFO - Completed storesOpenWeekdayOpenWeekends function
+2025-01-03 21:26:59,658 - INFO - Finding missing values in DataFrame...
+2025-01-03 21:26:59,738 - INFO - Finding missing values in DataFrame...
+2025-01-03 21:26:59,755 - INFO - Finding missing values in DataFrame...
+2025-01-03 21:26:59,781 - INFO - Replacing missing values...
+2025-01-03 21:26:59,787 - INFO - Replacing missing values in column 'Id' with mean: 41088
+2025-01-03 21:26:59,787 - INFO - Replacing missing values in column 'Store' with mean: 1115
+2025-01-03 21:26:59,790 - INFO - Replacing missing values in column 'DayOfWeek' with mean: 7
+2025-01-03 21:26:59,790 - INFO - Replacing missing values in column 'Open' with mean: 1.0
+2025-01-03 21:26:59,795 - INFO - Replacing missing values in column 'Promo' with mean: 1
+2025-01-03 21:26:59,795 - INFO - Replacing missing values in column 'SchoolHoliday' with mean: 1
+2025-01-03 21:26:59,795 - INFO - Replacing missing values in column 'Date' with mode: 2015-08-01
+2025-01-03 21:26:59,795 - INFO - Replacing missing values in column 'StateHoliday' with mode: 0
+2025-01-03 21:26:59,815 - INFO - Finding missing values in DataFrame...
+2025-01-03 21:26:59,829 - INFO - Replacing missing values...
+2025-01-03 21:26:59,832 - INFO - Replacing missing values in column 'Store' with mean: 1115
+2025-01-03 21:26:59,832 - INFO - Replacing missing values in column 'CompetitionDistance' with mean: 75860.0
+2025-01-03 21:26:59,832 - INFO - Replacing missing values in column 'CompetitionOpenSinceMonth' with mean: 12.0
+2025-01-03 21:26:59,839 - INFO - Replacing missing values in column 'CompetitionOpenSinceYear' with mean: 2015.0
+2025-01-03 21:26:59,841 - INFO - Replacing missing values in column 'Promo2' with mean: 1
+2025-01-03 21:26:59,841 - INFO - Replacing missing values in column 'Promo2SinceWeek' with mean: 50.0
+2025-01-03 21:26:59,844 - INFO - Replacing missing values in column 'Promo2SinceYear' with mean: 2015.0
+2025-01-03 21:26:59,846 - INFO - Replacing missing values in column 'StoreType' with mode: a
+2025-01-03 21:26:59,846 - INFO - Replacing missing values in column 'Assortment' with mode: a
+2025-01-03 21:26:59,848 - INFO - Replacing missing values in column 'PromoInterval' with mode: Jan,Apr,Jul,Oct
+2025-01-03 21:26:59,857 - INFO - Finding missing values in DataFrame...
+2025-01-03 21:26:59,957 - INFO - Calculating outlier summary for numerical columns...
+2025-01-03 21:27:00,037 - INFO - Creating box plots for outlier detection...
+2025-01-03 21:27:05,024 - INFO - Calculating outlier summary for numerical columns...
+2025-01-03 21:27:05,072 - INFO - Calculating outlier summary for numerical columns...
+2025-01-03 21:27:05,139 - INFO - Creating box plots for outlier detection...
+2025-01-03 21:27:05,655 - INFO - Removing outliers using winsorization...
+2025-01-03 21:27:05,718 - INFO - Winsorizing column 'Sales' with lower bound: -2466.5 and upper bound: 14049.5
+2025-01-03 21:27:05,844 - INFO - Winsorizing column 'Customers' with lower bound: -243.0 and upper bound: 1485.0
+2025-01-03 21:27:05,892 - INFO - Removing outliers using winsorization...
+2025-01-03 21:27:05,904 - INFO - Winsorizing column 'CompetitionDistance' with lower bound: -8557.5 and upper bound: 16182.5
+2025-01-03 21:27:05,915 - INFO - Winsorizing column 'CompetitionOpenSinceYear' with lower bound: 1997.5 and upper bound: 2025.5
+2025-01-03 21:27:05,925 - INFO - Calculating outlier summary for numerical columns...
+2025-01-03 21:27:06,053 - INFO - Calculating outlier summary for numerical columns...
+2025-01-03 21:27:06,098 - INFO - Calculating outlier summary for numerical columns...
+2025-01-03 21:27:06,140 - INFO - Creating box plots for outlier detection...
+2025-01-03 21:27:13,049 - INFO - Creating box plots for outlier detection...
+2025-01-14 08:32:48,387 - INFO - Creating date features.
+2025-01-14 08:32:49,052 - INFO - Comparing Promo distribution between train and test datasets.
+2025-01-14 08:32:49,111 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 08:32:49,117 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 08:32:49,140 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 08:32:49,150 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 08:32:49,273 - INFO - Categorizing each day based on holiday type.
+2025-01-14 08:33:02,953 - INFO - Calculating average sales during different periods.
+2025-01-14 08:33:03,084 - INFO - Plotting the effect of holidays on sales.
+2025-01-14 08:33:03,318 - INFO - Plotting sales over time by different timeframes.
+2025-01-14 08:33:04,336 - INFO - Decomposing sales seasonality.
+2025-01-14 08:33:05,009 - INFO - Calculating average sales by day of the week.
+2025-01-14 08:33:05,337 - INFO - Plotting monthly sales: Open vs Not Open.
+2025-01-14 08:33:05,484 - INFO - Analyzing customer behavior for stores that are open.
+2025-01-14 08:33:05,763 - INFO - Analyzing customer behavior for stores that are not open.
+2025-01-14 08:33:05,951 - INFO - Analyzing customer behavior by season for stores that are open.
+2025-01-14 08:33:06,365 - INFO - Plotting distribution of State Holidays.
+2025-01-14 08:33:06,474 - INFO - Plotting distribution of School Holidays.
+2025-01-14 08:33:06,566 - INFO - Plotting average sales on State Holidays vs Non-Holidays.
+2025-01-14 08:33:06,691 - INFO - Plotting average sales on School Holidays vs Non-Holidays.
+2025-01-14 08:33:06,914 - INFO - Plotting effect of promotions on monthly average sales.
+2025-01-14 08:33:07,067 - INFO - Analyzing store type performance over time.
+2025-01-14 08:33:07,350 - INFO - Plotting performance by store type and promotion over time.
+2025-01-14 08:33:07,570 - INFO - Plotting the relationship between number of customers and sales over time.
+2025-01-14 08:33:21,865 - INFO - Creating a heatmap for average sales by day of the week and month.
+2025-01-14 08:33:22,188 - INFO - Plotting daily sales growth rate.
+2025-01-14 08:33:22,575 - INFO - Analyzing the effect of assortment type on monthly average sales.
+2025-01-14 08:33:22,742 - INFO - Analyzing the effect of competition distance on sales.
+2025-01-14 08:33:22,905 - INFO - Analyzing stores open on all weekdays.
+2025-01-14 08:33:23,403 - INFO - Starting storesOpenWeekdayOpenWeekends function
+2025-01-14 08:33:23,532 - INFO - Filtered open stores: 844392 entries
+2025-01-14 08:33:23,667 - INFO - Number of stores open all weekdays: 1115
+2025-01-14 08:33:23,808 - INFO - Average weekend sales for stores open all weekdays: 2994.451143510152
+2025-01-14 08:33:23,808 - INFO - Average weekend sales for stores NOT open all weekdays: nan
+2025-01-14 08:33:23,929 - INFO - Completed storesOpenWeekdayOpenWeekends function
+2025-01-14 08:39:13,224 - INFO - Creating date features.
+2025-01-14 08:39:13,930 - INFO - Comparing Promo distribution between train and test datasets.
+2025-01-14 08:39:13,966 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 08:39:13,968 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 08:39:13,998 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 08:39:13,998 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-14 08:39:14,113 - INFO - Categorizing each day based on holiday type.
+2025-01-14 08:39:33,468 - INFO - Calculating average sales during different periods.
+2025-01-14 08:39:33,617 - INFO - Plotting the effect of holidays on sales.
+2025-01-14 08:39:34,071 - INFO - Plotting sales over time by different timeframes.
+2025-01-14 08:39:35,483 - INFO - Decomposing sales seasonality.
+2025-01-14 08:39:36,060 - INFO - Calculating average sales by day of the week.
+2025-01-14 08:39:36,384 - INFO - Plotting monthly sales: Open vs Not Open.
+2025-01-14 08:39:36,548 - INFO - Analyzing customer behavior for stores that are open.
+2025-01-14 08:39:36,868 - INFO - Analyzing customer behavior for stores that are not open.
+2025-01-14 08:39:37,106 - INFO - Analyzing customer behavior by season for stores that are open.
+2025-01-14 08:39:37,632 - INFO - Plotting distribution of State Holidays.
+2025-01-14 08:39:37,777 - INFO - Plotting distribution of School Holidays.
+2025-01-14 08:39:37,872 - INFO - Plotting average sales on State Holidays vs Non-Holidays.
+2025-01-14 08:39:38,003 - INFO - Plotting average sales on School Holidays vs Non-Holidays.
+2025-01-14 08:39:38,220 - INFO - Plotting effect of promotions on monthly average sales.
+2025-01-14 08:39:38,393 - INFO - Analyzing store type performance over time.
+2025-01-14 08:39:38,685 - INFO - Plotting performance by store type and promotion over time.
+2025-01-14 08:39:38,925 - INFO - Plotting the relationship between number of customers and sales over time.
+2025-01-14 08:39:55,047 - INFO - Creating a heatmap for average sales by day of the week and month.
+2025-01-14 08:39:55,344 - INFO - Plotting daily sales growth rate.
+2025-01-14 08:39:55,681 - INFO - Analyzing the effect of assortment type on monthly average sales.
+2025-01-14 08:39:55,832 - INFO - Analyzing the effect of competition distance on sales.
+2025-01-14 08:39:55,979 - INFO - Analyzing stores open on all weekdays.
+2025-01-14 08:39:56,494 - INFO - Starting storesOpenWeekdayOpenWeekends function
+2025-01-14 08:39:56,608 - INFO - Filtered open stores: 844392 entries
+2025-01-14 08:39:56,759 - INFO - Number of stores open all weekdays: 1115
+2025-01-14 08:39:56,905 - INFO - Average weekend sales for stores open all weekdays: 2994.451143510152
+2025-01-14 08:39:56,906 - INFO - Average weekend sales for stores NOT open all weekdays: nan
+2025-01-14 08:39:56,984 - INFO - Completed storesOpenWeekdayOpenWeekends function
+2025-01-14 08:41:41,713 - INFO - Creating date features.
